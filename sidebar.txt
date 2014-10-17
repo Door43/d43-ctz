@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ctz:home|Door43 (ctz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ctz|d43-ctz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ctz/archive/master.zip|d43-ctz.zip]]
+
+**Recent Changes**
+{{changes>ns = ctz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ctz|Ethnologue data]]
+
